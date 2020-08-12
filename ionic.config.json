@@ -1,5 +1,7 @@
 {
   "name": "timerApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
